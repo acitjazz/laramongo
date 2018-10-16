@@ -1,0 +1,2 @@
+# laramongo
+Laravel with Mongo
