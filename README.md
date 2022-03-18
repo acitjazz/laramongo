@@ -1,2 +1,2 @@
 # laramongo
-Laravel with Mongo
+Laravel 9 MongoDB
